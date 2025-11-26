@@ -1,0 +1,61 @@
+{
+  "name": "food-app-project",
+  "version": "1.0.0",
+  "description": "A professional, single-page food delivery app (Zomato UI clone) built with ReactJS, HTML, and Tailwind CSS, featuring restaurant listings, filters, and promotional offers.",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^5.2.0",
+    "aria-query": "^5.3.0",
+    "autoprefixer": "^10.4.22",
+    "baseline-browser-mapping": "^2.8.31",
+    "browserslist": "^4.28.0",
+    "caniuse-lite": "^1.0.30001757",
+    "css.escape": "^1.5.1",
+    "dequal": "^2.0.3",
+    "dom-accessibility-api": "^0.5.16",
+    "electron-to-chromium": "^1.5.260",
+    "escalade": "^3.2.0",
+    "fraction.js": "^5.3.4",
+    "indent-string": "^4.0.0",
+    "js-tokens": "^4.0.0",
+    "lucide-react": "^0.555.0",
+    "lz-string": "^1.5.0",
+    "min-indent": "^1.0.1",
+    "nanoid": "^3.3.11",
+    "node-releases": "^2.0.27",
+    "normalize-range": "^0.1.2",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.6",
+    "postcss-value-parser": "^4.2.0",
+    "pretty-format": "^27.5.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-is": "^17.0.2",
+    "react-scripts": "^5.0.1",
+    "redent": "^3.0.0",
+    "source-map-js": "^1.2.1",
+    "strip-indent": "^3.0.0",
+    "tailwindcss": "^4.1.17",
+    "update-browserslist-db": "^1.1.4",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhivyadivine/food-app-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhivyadivine/food-app-project/issues"
+  },
+  "homepage": "https://github.com/Dhivyadivine/food-app-project#readme"
+}
